@@ -90,7 +90,6 @@ h2 {
     animation-delay: 1s;
     animation-duration: 3s;
     animation-timing-function:linear;
-
 }
 
 .tituloh2 {
@@ -98,6 +97,8 @@ h2 {
     color: white;
     background-image: linear-gradient(to left, red,rgb(187, 187, 20));
 }
+
+
 
 
 #video_home {
